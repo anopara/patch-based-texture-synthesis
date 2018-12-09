@@ -17,3 +17,6 @@ Here are the libraries and their versions you will need:
 * PIL (5.2.0)
 
 To start, open the Jupyter Notebook file "Patch-based Texture Synthesis", and follow the instructions :) 
+
+Below you can see the effect of different patch sizes:
+![](differentPatchSizes_example.gif)
